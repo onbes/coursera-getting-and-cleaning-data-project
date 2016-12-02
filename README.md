@@ -1,3 +1,5 @@
+# coursera-getting-and-cleaning-data-project
+
 This is the final (course) project for the Getting and Cleaning Data Coursera course. 
 The run_analysis.R does the following:
 
